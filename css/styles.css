@@ -1,5 +1,24 @@
 /*stlying*/
 
-body {
-    background: rgba(198, 240, 131, 0.87);
+
+@import url('https://fonts.googleapis.com/css?family=Rubik+Mono+One');
+
+h1 {
+color: #a10022;
+  font-size: 6em;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: 'Rubik Mono One', sans-serif;
+  text-shadow: 
+    2px 2px 0 white;
+   -2px -2px 0 white;
+    6px 6px 0 white;
 }
+
+body {
+    background:black;
+
+}
+
+
+
